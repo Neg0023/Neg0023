@@ -2,13 +2,10 @@
 
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <a href="https://github.com/rafaballerini">
     <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Neg0023&show_icons=true&theme=apprentice" />
-  </a>
-
-  <a href="https://github.com/anuraghazra/convoychat">
     <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neg0023&theme=apprentice&layout=compact" />
-  </a>
+  
 </div>
 <div style="display: inline_block" ><br>
   <img align="center" alt="Neg-java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
