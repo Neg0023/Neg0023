@@ -4,7 +4,7 @@
 <div align="center">
   <a href="https://github.com/Neg0023">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Neg0023&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neg0023&layout=compact&langs_count=7&theme=react"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neg0023&langs_count=7&theme=react"/>
 </div>
 <div style="display: inline_block" ><br>
   <img align="center" alt="Neg-java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
