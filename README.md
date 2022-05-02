@@ -1,16 +1,27 @@
-### Olá, eu sou Uemerson 👋
-
-
-<div align="center">
-  <a href="https://github.com/Neg0023">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Neg0023&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neg0023&langs_count=7&theme=react"/>
+<div>
+    <a target='_blank' href="https://www.linkedin.com/in/uemerson-santos/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
 </div>
-<div style="display: inline_block" ><br>
-  <img align="center" alt="Neg-java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="Neg-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-  <img align="center" alt="Neg-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-  <img align="center" alt="Neg-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
-  <img align="center" alt="Neg-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
 
-</div>
+## Hello there
+
+Não sei como você chegou até aqui, mas vou tentar me apresentar.
+
+## Informações Publicas
+
+Meu nome é Uemerson. Atualmente moro em São Paulo - SP, sou estudante de Analise e Desenvolvimento de Sistemas na Faculdade Impacata Tecnologia.
+
+## Informações Detalhadas
+
+* **Name**: Uemerson Santos
+* **Age**: 27
+* **Morando**: São Paulo - SP, Brazil
+* **Stack**: PHP - Laravel - Bootstrap - SQL - AWS
+* **Universidade**: Faculdade Impacta de Tecnologia
+
+## Curiosidades
+
+* Eu e a minha escola fomos vice campeões dois anos seguidos das Olimpiadas Estudantis da Cidade de São Paulo, jogando basquete
+* No terceiro ano do ensino medio eu atuei como Jesus em uma peça adaptada do Auto da Compadecida
+* Meu primeiro contato com programação foi no segundo ano, da minha primeira graduação em Engenharia Civil, usando C++
