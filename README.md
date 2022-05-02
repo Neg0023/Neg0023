@@ -24,4 +24,4 @@ Meu nome é Uemerson. Atualmente moro em São Paulo - SP, sou estudante de Anali
 
 * Eu e a minha escola fomos vice campeões dois anos seguidos das Olimpiadas Estudantis da Cidade de São Paulo, jogando basquete
 * No terceiro ano do ensino medio eu atuei como Jesus em uma peça adaptada do Auto da Compadecida
-* Meu primeiro contato com programação foi no segundo ano, da minha primeira graduação em Engenharia Civil, usando C++
+* Meu primeiro contato com programação foi no segundo ano da minha primeira graduação em Engenharia Civil, usando C++
