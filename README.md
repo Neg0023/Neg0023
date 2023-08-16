@@ -15,9 +15,9 @@ Meu nome é Uemerson. Atualmente moro em São Paulo - SP, sou estudante de Anali
 ## Informações Detalhadas
 
 * **Name**: Uemerson Santos
-* **Age**: 27
+* **Age**: 28
 * **Morando**: São Paulo - SP, Brasil
-* **Stack**: Java - Python - HTML - CSS - SQL 
+* **Stack**: Java - Spring Framework - SQL - Git - GitHub - Python - HTML - CSS 
 * **Universidade**: Faculdade Impacta de Tecnologia
 
 ## Curiosidades
